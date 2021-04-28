@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527664092710-q3gpqdjsu5tg3i668j1c6rfk1r80a9us.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527664092710-q3gpqdjsu5tg3i668j1c6rfk1r80a9us</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUGL2cznfI6lB9S8l6bGNIwEetMNQCRuY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527664092710</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.northeastern.yuan.man.PicGram</string>
+	<key>PROJECT_ID</key>
+	<string>doggram-2ebbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doggram-2ebbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527664092710:ios:f4a4d445bbedac48f978e7</string>
+</dict>
+</plist>
